@@ -1,6 +1,6 @@
 {
     "default_model": "sd_xl_base_1.0_0.9vae.safetensors",
-    "default_refiner": None",
+    "default_refiner": "None",
     "default_refiner_switch": 0.85,
     "default_loras": [
         [
