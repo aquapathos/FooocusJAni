@@ -3,7 +3,7 @@
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"> </a>
 
 lllyasvielさんの作られた [Fooocus Fooocus](https://github.com/lllyasviel/Fooocus) に
-- 画家　渡辺美香子さんの色鉛筆画風LoRA　のプリセット
+- 画家　[渡辺美香子さんの色鉛筆画](https://www.facebook.com/mikakostudio/風LoRA　のプリセット
 - 日本語メニューのリソース
 を加えて起動できるようにした Google Colaboratory のノートを作りました。
 
