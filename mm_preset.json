@@ -11,12 +11,12 @@
         [
             true,
             "mmxl.safetensors",
-            1.0
+            0.3
         ],
         [
             true,
-            "None",
-            1.0
+            "mmxlfine.safetensors",
+            0.7
         ],
         [
             true,
@@ -37,8 +37,7 @@
     "default_prompt": "upside-down landscape reflected in lake, no humans, a small country house stands, a red roadster in front of the house, a colorful cosmos field in the foreground",
     "default_prompt_negative": "",
     "default_styles": [
-        "Fooocus Negative",
-        "Colored Pencil Art"
+        "Fooocus Negative"
     ],
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
@@ -48,7 +47,8 @@
     "embeddings_downloads": {},
     "lora_downloads": {
         "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
-        "mmxl.safetensors":  "https://huggingface.co/iciromaco/mm/resolve/main/mmxl.safetensors"
+        "mmxl.safetensors":  "https://huggingface.co/iciromaco/mm/resolve/main/mmxl.safetensors",
+        "mmxlfine.safetensors":  "https://huggingface.co/iciromaco/mm/resolve/main/mmxlfine.safetensors"
     },
     "previous_default_models": []
 }
