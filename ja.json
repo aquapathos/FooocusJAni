@@ -389,5 +389,9 @@
     "Mk Punk Collage": "Mk パンクコラージュ",
     "Mk Andy Warhol": "Mk アンディ・ウォーホル調",
     "Mk Halftone Print": "Mk ハーフトーンプリント",
-    "Mk Gond Painting": "Mk ゴンド画"
+    "Mk Gond Painting": "Mk ゴンド画",
+    "Prompt Translate": "プロンプトの翻訳",
+    "Enable translate": "翻訳機能 有効",
+    "Translate": "翻訳",
+    "See translated prompts after click Generate": "翻訳されたプロンプトを表示",
 }
