@@ -10,12 +10,12 @@
         ],
         [
             true,
-            "mmxl.safetensors",
-            0.3
+            "mmxlfine.safetensors",
+            1.0
         ],
         [
             true,
-            "mmxlfine.safetensors",
+            "None",
             0.7
         ],
         [
@@ -40,6 +40,7 @@
         "Fooocus Negative"
     ],
     "default_aspect_ratio": "1088*896",
+    "default_image_number": 1,
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "sd_xl_base_1.0_0.9vae.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0_0.9vae.safetensors"
@@ -47,7 +48,6 @@
     "embeddings_downloads": {},
     "lora_downloads": {
         "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
-        "mmxl.safetensors":  "https://huggingface.co/iciromaco/mm/resolve/main/mmxl.safetensors",
         "mmxlfine.safetensors":  "https://huggingface.co/iciromaco/mm/resolve/main/mmxlfine.safetensors"
     },
     "previous_default_models": []
