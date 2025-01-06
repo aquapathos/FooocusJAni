@@ -39,7 +39,7 @@
     "default_styles": [
         "Fooocus Negative"
     ],
-    "default_aspect_ratio": "1024*1024",
+    "default_aspect_ratio": "832×576",
     "default_image_number": 1,
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
