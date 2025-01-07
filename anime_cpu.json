@@ -41,7 +41,7 @@
         "Misc Kawaii",
         "Fooocus Masterpiece"
     ],
-    "default_aspect_ratio": "832*576",
+    "default_aspect_ratio": "1152*896",
     "default_image_number": 1,
     "checkpoint_downloads": {
         "animagine-xl-3.0.safetensors": "https://huggingface.co/cagliostrolab/animagine-xl-3.0/resolve/main/animagine-xl-3.0.safetensors"
